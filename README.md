@@ -3,7 +3,7 @@
 <ol>
     <li style="box-sizing: border-box;">Developed a program using Python to create a calculator that calculates the profit and fees for Amazon, Ebay and Etsy</li>
     <li style="box-sizing: border-box;">Implemented in each calculator are their unique marketplace fees.</li>
-    <li style="box-sizing: border-box;">Users will be able to easily imput their product prices and fees for each marketplace</li>
+    <li style="box-sizing: border-box;">Users will be able to easily input their product prices and fees for each marketplace</li>
 </ol>
 <h2>Instructions</h2>
 <ol>
